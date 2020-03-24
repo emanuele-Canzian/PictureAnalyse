@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff785792-4ac6-45ed-8c99-00ae2923eebb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/833674.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/images/29d991c0de30bc8a743834648feb4fbd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/images/61d90eececed5add7af4341d42a66827" beforeDir="false" />
@@ -42,7 +40,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -68,7 +66,7 @@
       <workItem from="1584971320763" duration="11434000" />
       <workItem from="1584985171655" duration="45000" />
       <workItem from="1584986337393" duration="133000" />
-      <workItem from="1585044028267" duration="305000" />
+      <workItem from="1585044028267" duration="529000" />
     </task>
     <servers />
   </component>
@@ -104,10 +102,10 @@
       <screen x="-643" y="-1440" width="3440" height="1400" />
     </state>
     <state width="1882" height="295" key="GridCell.Tab.0.right/0.0.1536.824/-643.-1440.3440.1400@-643.-1440.3440.1400" timestamp="1584719538047" />
-    <state x="813" y="-1096" key="SettingsEditor" timestamp="1584985043629">
+    <state x="813" y="-1096" key="SettingsEditor" timestamp="1585044550813">
       <screen x="-643" y="-1440" width="3440" height="1400" />
     </state>
-    <state x="813" y="-1096" key="SettingsEditor/0.0.1536.824/-643.-1440.3440.1400@-643.-1440.3440.1400" timestamp="1584985043629" />
+    <state x="813" y="-1096" key="SettingsEditor/0.0.1536.824/-643.-1440.3440.1400@-643.-1440.3440.1400" timestamp="1585044550813" />
     <state x="1070" y="-1005" key="Vcs.Push.Dialog.v2" timestamp="1584715408968">
       <screen x="-643" y="-1440" width="3440" height="1400" />
     </state>
