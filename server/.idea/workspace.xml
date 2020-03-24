@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff785792-4ac6-45ed-8c99-00ae2923eebb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/833674.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/29d991c0de30bc8a743834648feb4fbd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/61d90eececed5add7af4341d42a66827" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/b52cb48714221c38b9599465c7f1f102" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landschaft.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZOEMBiu52JoDxEcrbeBJzAesUO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="13.9.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Manju\WebPictures\picturesAnalyse\server" />
+      <recent name="C:\Users\Manju\WebPictures\picturesAnalyse\server\controller" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff785792-4ac6-45ed-8c99-00ae2923eebb" name="Default Changelist" comment="" />
+      <created>1584701689160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584701689160</updated>
+      <workItem from="1584701690467" duration="730000" />
+      <workItem from="1584708886361" duration="2586000" />
+      <workItem from="1584711565942" duration="19000" />
+      <workItem from="1584775968464" duration="19000" />
+      <workItem from="1584777243123" duration="37000" />
+      <workItem from="1584971320763" duration="11434000" />
+      <workItem from="1584985171655" duration="45000" />
+      <workItem from="1584986337393" duration="133000" />
+      <workItem from="1585044028267" duration="305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1550" y="-931" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584982559157">
+      <screen x="-643" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="1550" y="-931" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-643.-1440.3440.1400@-643.-1440.3440.1400" timestamp="1584982559157" />
+    <state x="1042" y="-991" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584712084882">
+      <screen x="-643" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="1042" y="-991" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-643.-1440.3440.1400@-643.-1440.3440.1400" timestamp="1584712084882" />
+    <state x="1641" y="-979" key="FileChooserDialogImpl" timestamp="1584985209757">
+      <screen x="-643" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="1641" y="-979" key="FileChooserDialogImpl/0.0.1536.824/-643.-1440.3440.1400@-643.-1440.3440.1400" timestamp="1584985209757" />
+    <state width="1882" height="295" key="GridCell.Tab.0.bottom" timestamp="1584719538048">
+      <screen x="-643" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="1882" height="295" key="GridCell.Tab.0.bottom/0.0.1536.824/-643.-1440.3440.1400@-643.-1440.3440.1400" timestamp="1584719538048" />
+    <state width="1882" height="295" key="GridCell.Tab.0.center" timestamp="1584719538047">
+      <screen x="-643" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="1882" height="295" key="GridCell.Tab.0.center/0.0.1536.824/-643.-1440.3440.1400@-643.-1440.3440.1400" timestamp="1584719538047" />
+    <state width="1882" height="295" key="GridCell.Tab.0.left" timestamp="1584719538047">
+      <screen x="-643" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="1882" height="295" key="GridCell.Tab.0.left/0.0.1536.824/-643.-1440.3440.1400@-643.-1440.3440.1400" timestamp="1584719538047" />
+    <state width="1882" height="295" key="GridCell.Tab.0.right" timestamp="1584719538047">
+      <screen x="-643" y="-1440" width="3440" height="1400" />
+    </state>
+    <state width="1882" height="295" key="GridCell.Tab.0.right/0.0.1536.824/-643.-1440.3440.1400@-643.-1440.3440.1400" timestamp="1584719538047" />
+    <state x="813" y="-1096" key="SettingsEditor" timestamp="1584985043629">
+      <screen x="-643" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="813" y="-1096" key="SettingsEditor/0.0.1536.824/-643.-1440.3440.1400@-643.-1440.3440.1400" timestamp="1584985043629" />
+    <state x="1070" y="-1005" key="Vcs.Push.Dialog.v2" timestamp="1584715408968">
+      <screen x="-643" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="1070" y="-1005" key="Vcs.Push.Dialog.v2/0.0.1536.824/-643.-1440.3440.1400@-643.-1440.3440.1400" timestamp="1584715408968" />
+    <state x="448" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1584777243597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="448" y="274" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-643.-1440.3440.1400@0.0.1536.824" timestamp="1584777243597" />
+    <state x="1036" y="-1036" width="609" height="536" key="find.popup" timestamp="1584711614755">
+      <screen x="-643" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="1036" y="-1036" width="609" height="536" key="find.popup/0.0.1536.824/-643.-1440.3440.1400@-643.-1440.3440.1400" timestamp="1584711614755" />
+    <state x="1538" y="-943" key="git4idea.merge.GitPullDialog" timestamp="1584984941239">
+      <screen x="-643" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="1538" y="-943" key="git4idea.merge.GitPullDialog/0.0.1536.824/-643.-1440.3440.1400@-643.-1440.3440.1400" timestamp="1584984941239" />
+    <state x="189" y="33" key="new project wizard" timestamp="1584777277327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="189" y="33" key="new project wizard/0.0.1536.824/-643.-1440.3440.1400@0.0.1536.824" timestamp="1584777277327" />
+    <state x="1517" y="-384" key="run.anything.popup" timestamp="1584985023342">
+      <screen x="-643" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="1517" y="-384" key="run.anything.popup/0.0.1536.824/-643.-1440.3440.1400@-643.-1440.3440.1400" timestamp="1584985023342" />
+    <state x="1524" y="-1096" width="672" height="678" key="search.everywhere.popup" timestamp="1584985028226">
+      <screen x="-643" y="-1440" width="3440" height="1400" />
+    </state>
+    <state x="1524" y="-1096" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-643.-1440.3440.1400@-643.-1440.3440.1400" timestamp="1584985028226" />
+  </component>
+</project>

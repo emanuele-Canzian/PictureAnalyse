@@ -1,0 +1,18 @@
+html, body{
+  height: 100%;
+}
+
+
+a{
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+}
+
+:link,
+:visited{
+  color: white;
+}
+:hover{
+  color: #3F51B5;
+}
