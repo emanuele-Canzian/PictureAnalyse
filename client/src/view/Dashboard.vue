@@ -1,19 +1,15 @@
 <template>
-  <v-layout class="dashboard pl-3 pr-3">
+  <v-layout class="dashboard pa-4">
+    <div>
     <h1>Here can u analyse your picture</h1>
       <RouterView/>
+    </div>
   </v-layout>
 </template>
 
 <script>
   export default {
     name: "Dashboard",
-    data: () => ({
-
-    }),
-
-    watch: {
-    },
   }
 </script>
 

@@ -1,35 +1,16 @@
 @import "src/assets/styles/App";
 
 .dashboard{
-  height: 100%;
+
   background-color: $color-indigo-lighten-4;
-  width: 100%;
+  display: flex;
+  justify-content: center;
+
+
   h1{
     color: black;
-  }
-  &__content{
-    height: 12vh;
-    width: 100%;
-
-  }
-  &__nav{
-    width: 100%;
-    display: flex;
-    align-items: center;
-
-
-
-    &--icon{
-      width: auto;
-      justify-self: center;
-    }
-    &--listItem{
-       color:black;
-      :visited,
-      :link{
-        color: black;
-      }
-    }
+    padding-bottom: 1em;
+    text-align: center;
   }
 }
 

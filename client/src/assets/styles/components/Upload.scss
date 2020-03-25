@@ -1,0 +1,28 @@
+@import "src/assets/styles/App";
+
+.upload{
+  background-color: $color-indigo-lighten-4;
+  width: 100%;
+  max-width: 800px;
+
+  &__form{
+    display: flex;
+    flex-direction: column;
+  }
+  &__input{
+    display: inline-block;
+    align-self: center;
+  }
+  &__btn{
+    max-width: 300px;
+    align-self: center;
+  }
+  &__image{
+    max-width: 90vw;
+    height: auto;
+    padding-bottom: 2em;
+    display: flex;
+    justify-content: center;
+  }
+
+}
